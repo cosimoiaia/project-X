@@ -1,0 +1,6 @@
+numpy
+deepspeech
+pyaudio
+webrtcvad
+wave
+TTS
